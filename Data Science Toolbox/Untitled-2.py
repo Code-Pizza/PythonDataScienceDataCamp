@@ -1,0 +1,2 @@
+churn = {"geography": "France"}
+churn
