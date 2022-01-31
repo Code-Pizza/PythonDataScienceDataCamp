@@ -1,2 +1,0 @@
-churn = {"geography": "France"}
-churn
